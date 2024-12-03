@@ -1,2 +1,2 @@
 # Taco-HTML-Project
-Taco shop website created usign HTML
+Taco shop website created using HTML
